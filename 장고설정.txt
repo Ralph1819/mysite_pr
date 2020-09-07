@@ -97,9 +97,9 @@ mysite
 
     --------------------------------------------------------------
 
-2. guestbook Application 만들기
+2. user Application 만들기
     1) 터미널에서
-       # python manage.py startapp guestbook
+       # python manage.py startapp user
     2) templates/guestbook 디렉토리 생성
     3) Application 등록
         settings.py 의 INSTALLED_APPS 에 추가 한다.
